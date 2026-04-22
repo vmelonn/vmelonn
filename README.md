@@ -8,7 +8,6 @@ AI Engineer @ wAI · CS @ LUMS · Open Source Enthusiast · Linux nerd
 
 - **[Alara]** — Autonomous multi-agent workflows using LangGraph + Chain-of-Thought reasoning
 - **PakPlug** — Full-stack EV charging platform (Flutter + Node.js + MongoDB) with real-time booking
-- **Bilingual ASR** — Fine-tuning Whisper for Urdu/English code-switching
 - **GNOME Extensions** — [Ngrok Indicator](https://extensions.gnome.org) & [Dynamic Panel Transparency](https://extensions.gnome.org), published to official marketplace
 
 ---
