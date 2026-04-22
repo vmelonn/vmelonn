@@ -6,7 +6,7 @@ AI Engineer @ wAI · CS @ LUMS · Open Source Enthusiast · Linux nerd
 
 ### 🔭 What I'm building
 
-- **[Alara]** — Autonomous multi-agent workflows using LangGraph + Chain-of-Thought reasoning
+- **Alara** — Autonomous multi-agent workflows using LangGraph + Chain-of-Thought reasoning
 - **PakPlug** — Full-stack EV charging platform (Flutter + Node.js + MongoDB) with real-time booking
 - **GNOME Extensions** — [Ngrok Indicator](https://extensions.gnome.org) & [Dynamic Panel Transparency](https://extensions.gnome.org), published to official marketplace
 
