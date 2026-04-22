@@ -41,7 +41,7 @@ AI Engineer @ wAI · CS @ LUMS · Open Source Enthusiast · Linux nerd
 
 ### 📈 GitHub Stats
 
-![Rayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmelonn&show_icons=true&theme=default&hide_border=true)
+![Rayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmelonn&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
