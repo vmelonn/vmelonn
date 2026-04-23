@@ -1,6 +1,6 @@
 # Hi, I'm Rayan 👋
 
-AI Engineer @ wAI · CS @ LUMS · Open Source Enthusiast · Linux nerd
+AI Engineer @ wAI · CS @ LUMS 
 
 ---
 
